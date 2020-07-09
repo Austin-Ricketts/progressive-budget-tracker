@@ -3,7 +3,7 @@
 ### Description
 ![https://img.shields.io/badge/Austin's-Progressive%20Budget%20Tracker-orange](https://img.shields.io/badge/Austin's-Progressive%20Budget%20Tracker-orange)(https://github.com/Austin-Ricketts/progressive-budget-tracker)
 
-![https://gentle-basin-86582.herokuapp.com/](https://gentle-basin-86582.herokuapp.com/)
+(https://gentle-basin-86582.herokuapp.com/)
 
 This application allows a user to track their finances, whether online or offline. The user may enter monetary data, even while offline, and when the user is able to return to an online environment, the data will be present.
 
